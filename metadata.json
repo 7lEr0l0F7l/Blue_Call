@@ -1,0 +1,8 @@
+{
+  "name": "Remix BlueCall - AI기반 해양 행정·현장소통플랫폼",
+  "description": "선박 AIS 정보 기반 인근 선박 조회, 안심번호 통화, AI 통화요약, 원터치 SOS 조난 전파 및 선원 안전관리를 지원하는 AI 기반 해상 스마트 안전 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

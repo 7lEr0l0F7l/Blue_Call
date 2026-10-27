@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "BlueCall 바다안심콜 (해양 현장소통·관제)",
+  "short_name": "바다안심콜",
+  "description": "선박 050 안심번호 통화, 원터치 SOS 조난 전파, AI 통화요약 및 연근해 해양 관제 플랫폼",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#0284c7",
+  "lang": "ko-KR",
+  "icons": [
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["navigation", "communication", "utilities"]
+}
